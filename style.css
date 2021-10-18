@@ -1,0 +1,75 @@
+body{
+    font-family: 'Georama', sans-serif;
+}
+
+.navbar-my-text{
+    font-weight: 600;
+    color: rgb(194, 191, 191);
+    font-size: 18px;
+}
+
+
+
+.navbar-my-text-portfolio{
+    font-weight: 600;
+    align-items: center;
+    text-align: center;
+    color: rgb(194, 191, 191);
+    align-items: center;
+    
+   
+}
+
+.github-logo-navbar{
+    font-size: 35px;
+    color: rgb(160, 158, 158);
+
+}
+
+
+.navbar-toggler-icon-color{
+    color: rgb(194, 191, 191);
+    font-size: 28px;
+}
+
+.przerwa-od-nav-baru{
+    height: 90px;
+}
+
+.user-icon-about-me{
+    font-size: 70px;
+    color: rgb(160, 158, 158);
+}
+
+
+.text-about-me{
+    color: rgb(160, 158, 158);
+    font-weight: 600;
+    font-size: 18px;
+    height: auto;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+}
+
+.heading-about-me{
+    color: rgb(160, 158, 158);
+    font-weight: 600;
+    font-size: 24px;
+}
+
+
+.about-me-background{
+    background-image: url(pexels-junior-teixeira-2047905.jpg);
+    height: 100%;
+}
+
+.img-leaves-dividers{
+    width: 150px;
+}
+
+.rozszerzenie{
+    
+    height: 8vh;
+}
